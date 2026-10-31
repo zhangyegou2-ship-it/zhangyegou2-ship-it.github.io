@@ -33,6 +33,48 @@ Description: Download and export repository DEB files directly from Sileo.
 Name: Sileo DEB Downloader
 Author: Local
 
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64
+Version: 1.2.0-62
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 1596
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/cn.zqbb.fix120hz_1.2.0-62_iphoneos-arm64.deb
+Size: 358944
+MD5sum: 75f645b9b6cb52c73d20146586f3ca79
+SHA1: e3d3f5a2d90c917c4cb6cc999a183e99e792ced6
+SHA256: 4b9221a69f442da20a3491de2bf095fa2ee73d91759311c78cdb54e1f101c1d7
+SHA512: 4c8205201bd2036ce816d6cc5bd1ce6a5fbfc11bd34ea651033237628d870bef4e594a45effc93c571479e415eb1e6efe313a47b743acd881ee4a80bf0e98086
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: com.opa334.altlist
+Architecture: iphoneos-arm64e
+Version: 1.0.11
+Section: System
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: debs/com.opa334.altlist_1.0.11_iphoneos-arm64e.deb
+Size: 27902
+MD5sum: f1cfdb97679bc2b30b2918220ee9351f
+SHA1: 9eef53971a1a30e13cfc2adf3a18b655dd2d9eb2
+SHA256: 7d145977d3fbcd5030564dc429e18f7456c29f92020c36f32e61d4a82418f737
+SHA512: 47c2499b925b7f59bc54bc2c9e25190bf39ce55afd07ae3c75bf579b7ede5d66b0c17cacdd5e256a59670f08fc81475c0cbe4fa85649fc5a5ffa53522d39765d
+Description: A modern AppList alternative
+Tag: role::developer
+Name: AltList
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Author: opa334
+
 Package: com.charlieleung.trollopenjb
 Architecture: iphoneos-arm64
 Version: 1.3.7
