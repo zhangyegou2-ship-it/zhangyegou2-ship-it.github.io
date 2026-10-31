@@ -1,3 +1,20 @@
+Package: com.colorblack.wetypematerialglass
+Architecture: iphoneos-arm64e
+Version: 1.2.6
+Section: 输入法皮肤
+Maintainer: colorblack
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: debs/Hello Speed_1.2.2_iphoneos-arm64e.deb
+Size: 21874
+MD5sum: 674ea93be1199f2c2cde5f78aa185ed4
+SHA1: 05d1e1ca45510bd2d0f646dfbc8b8716e444c919
+SHA256: 7afd9e3aabc2c42b44d330d6ff1a5e0df7a024929b13802790344cfc5b62228d
+SHA512: 21d7be0107982faa7694842c0ac95b93b4876c6f515caa14d5b306396378ab49dec1ba2561e59238978d8bad02bba35d198e5814e50557a9af12501fc2bd10e8
+Description: 微信输入法启用毛玻璃效果，测试输入法版本号 3.5.0。1.2.6 独立适配浅色 Dock 风格毛玻璃，同时保留 1.2.5 暗黑模式效果。QQ群：205928931
+Name: 微信输入法_毛玻璃效果 Roothide
+Author: colorblack
+
 Package: cn.zqbb.hello.quick.panel
 Architecture: iphoneos-arm64e
 Version: 1.0.1-6+localunlock3
