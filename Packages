@@ -1,0 +1,52 @@
+Package: cn.zqbb.hello.quick.panel
+Architecture: iphoneos-arm64e
+Version: 1.0.1-6+localunlock3
+Section: zqbb Tweaks
+Maintainer: zqbb
+Installed-Size: 17776
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/HelloQuickPanel_1.0.1-6_localunlock3_iphoneos-arm64e.deb
+Size: 4996120
+MD5sum: 962928d2fa5dd3045423e9491704aadc
+SHA1: 5a643d0d18a3761bce65968acad23a45637ffd5d
+SHA256: ed86fa36f844b5729f2eafdeef664611f6330c4b4d971e6f176676f5db31579a
+SHA512: 173983e2be9f643e441d9fb5eafdee7c8dfac51e28dae06bd70f411593de5696198c0be82ec3203ad6615f516cd0ad22fde803e1f1859a9d6ae22cff515bf893
+Description: 快捷面板~
+Name: Hello QuickPanel
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
+
+Package: com.local.sileodebdownloader
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Section: Tweaks
+Maintainer: Local
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/SileoDEBDownloader_1.3.0_roothide.deb
+Size: 59298
+MD5sum: 0bac41121d37d373198b1fe6d07655b8
+SHA1: cfcfbe9ee45fb1a1c7a3ab3f036f2f9d6eb4ab94
+SHA256: 86950020a72d5b89bddea7457fe691aeead806628a47d9f912c13e6a2c49262d
+SHA512: 829bf22d4c3814f7df7b6ae2ac8ad3cdc90f819823d8a1f321c5f077c6fe32670472b5a6f3abcfa8486aa378a2a619e16a4795b720500097441960cc18556c0c
+Description: Download and export repository DEB files directly from Sileo.
+Name: Sileo DEB Downloader
+Author: Local
+
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64
+Version: 1.3.7
+Section: Tweaks
+Maintainer: Charlie Leung
+Installed-Size: 5740
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/trollopen_1.3.7_rootless.deb
+Size: 813916
+MD5sum: 8519d0f5951b28217166bf4c1fef0326
+SHA1: 5bbc996e36f7b72fc7682494e1f911624307e14b
+SHA256: 0ea66830d5d7334d0a3596121c2edba8339377d017f285e9b60da3f472b1495c
+SHA512: 8a210f5db0891cd958ac7f7c542eac8f8d4374ae4ecb2a95ed3ad116bc1a723b01a13d8d19a4e1265becea893f58957107f397a12ffe399ec4581f78c1405591
+Description: TrollOpen 的越狱版本，自带分屏功能，支持 ios16 及以上。
+Name: TrollOpen
+Author: Charlie Leung
+
