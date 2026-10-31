@@ -5,7 +5,7 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: zhangyegou2-ship-it 的越狱软件源
+Description: 野狗的越狱软件源
 Support: https://zhangyegou2-ship-it.github.io/zhangyegou2-ship-it.github.io/
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e  0 Packages
