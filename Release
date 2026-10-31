@@ -8,8 +8,8 @@ Components: main
 Description: zhangyegou2-ship-it 的越狱软件源
 Support: https://zhangyegou2-ship-it.github.io/zhangyegou2-ship-it.github.io/
 MD5Sum:
- 664916d2c075050a9bcf889253b2fd0c  1445 Packages
- d1257660868cefceeee65991f6d563f7  947 Packages.gz
+ 03343c384af9298989b9fae15c8b9d97  642 Packages
+ c8eb7aec83518ae748fc002c2af4a356  468 Packages.gz
 SHA256:
- f126152227c38118284a7d5969467624f7e3998fe0b69986ecaace3583f2429e  1445 Packages
- 8e7455425d3b84b51ff88a70b3cbba6d196dabcfff0923b21f8e999e9144ae92  947 Packages.gz
+ da2b90c9cb8295231a09e107f51fdba04550d9ea8eb6eb87daafdfdd12fecced  642 Packages
+ 0cd7f6329d73147728f4767321411ace919307796ed22710d67f005d6eb72c8e  468 Packages.gz
