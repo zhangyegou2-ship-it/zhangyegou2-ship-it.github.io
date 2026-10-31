@@ -17,3 +17,22 @@ Author: ylr
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcsurfacetrim/js.json
 
+Package: com.Axs.wcsurfacetrim
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 微信插件
+Maintainer: ylr
+Installed-Size: 272
+Depends: firmware (>= 15.0)
+Filename: debs/com.Axs.wcsurfacetrim_1.0_iphoneos-arm64.deb
+Size: 62636
+MD5sum: d005711c1aa9833827d4729c2d2f858c
+SHA1: fed9225598c26cf71b35476c4fe687c7df065a73
+SHA256: c2e5fde855f4f57068ebb8f97759fec294b700f097be040611a215e9f8ca7548
+SHA512: 633b1e0176d59d4b8edd2246bdc48809c3006d531e08a0988579463bbde2b11066e3bac5570a9cf549c6a7883ef0f8fd888d383600bed4d1e1412734500c76e0
+Description: 禁广告，无效请卸载
+Name: 微信去广告（新）
+Author: ylr
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcsurfacetrim/js.json
+
