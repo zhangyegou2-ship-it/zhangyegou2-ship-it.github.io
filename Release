@@ -1,15 +1,15 @@
-Origin: 野狗的源
-Label: 野狗的源
+Origin: zhangyegou2-ship-it 的源
+Label: zhangyegou2-ship-it 的源
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 野狗的越狱软件源
+Description: zhangyegou2-ship-it 的越狱软件源
 Support: https://zhangyegou2-ship-it.github.io/zhangyegou2-ship-it.github.io/
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e  0 Packages
- a72fd862c9579b7c4936bbb03a1651f0  29 Packages.gz
+ e918a160f9feea3aae835b3f4a90430f  803 Packages
+ 6e97c035f12964e1e6d3acff635c6912  625 Packages.gz
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  0 Packages
- 5fe280ee20c72df7e92e526527cf39ca44eb5d9eadae59656589681d32c21626  29 Packages.gz
+ 4bd8e5bed18e0885b0781bec014bc994f22930c54144dc9cee73ecfe26095809  803 Packages
+ c1b5ff700cc102c606ce0f0e9a67a7397290de5c3df345287486367fe93e357b  625 Packages.gz
