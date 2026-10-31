@@ -1,3 +1,20 @@
+Package: com.yourcompany.xxhook
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: xx
+Installed-Size: 392
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/1.0.6.deb
+Size: 82426
+MD5sum: a16a8f6ca6efdaafc475ddb6873d8f77
+SHA1: e26e37ba8d9fda45f71aee31b698d9fb313ed942
+SHA256: 7730263a6911c9e1023e12e616fc312588aa2a1deea1aca47e7e72b241c71512
+SHA512: 04d383155506ea393c4047bb83f1bd89459326c137b97a15c12222bff409ecbba8deacfc97a148e1a96a6a835e0cc9b1f77da64790f5d54503f03361eebfb181
+Description: An awesome MobileSubstrate tweak!
+Name: xxhook
+Author: xx
+
 Package: com.Axs.wcsurfacetrim
 Architecture: iphoneos-arm64
 Version: 1.0
