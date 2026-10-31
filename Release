@@ -1,0 +1,15 @@
+Origin: zhangyegou2-ship-it 的源
+Label: zhangyegou2-ship-it 的源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: zhangyegou2-ship-it 的越狱软件源
+Support: https://zhangyegou2-ship-it.github.io/zhangyegou2-ship-it.github.io/
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e  0 Packages
+ 922ce455fa2b66b50b2052761046739e  29 Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  0 Packages
+ 12971b42ad67c02f1513379ba0e3f6bfc58f54b1f1751e8b6a022627f115a04c  29 Packages.gz
