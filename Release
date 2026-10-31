@@ -1,15 +1,15 @@
-Origin: zhangyegou2-ship-it 的源
-Label: zhangyegou2-ship-it 的源
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm64e
-Components: main
-Description: zhangyegou2-ship-it 的越狱软件源
-Support: https://zhangyegou2-ship-it.github.io/zhangyegou2-ship-it.github.io/
+产地:zhangyegou2-ship-it的源
+标签:zhangyegou2-ship-it的源
+套房:稳定
+版本:1.0
+代号:ios
+架构:iphoneos-arm64 iphoneos-arm64e
+组件:主
+描述:野狗的越狱软件源
+支持:https://zhangyegou 2-ship-it . github . io/zhangyegou 2-ship-it . github . io/
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e  0 Packages
- 6a54ea510186a0787a4ca3183f684524  29 Packages.gz
+d 41 D8 CD 98 f 00 b 204 e 9800998 ECF 8427 e 0封装
+6a 54 ea 510186 a 0787 a4c a 3183 f 684524 29 Packages.gz
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  0 Packages
- a15e2c92eef815b95d357973a145901112255663e817d841c0c5164230644f01  29 Packages.gz
+E3 b0c 44298 fc1c 149 AFB F4 c 8996 FB 92427 AE 41 e 4649 b 934 ca 495991 b 7852 b 855 0封装
+a 15 e 2c 92 eef 815 b 95d 357973 a 145901112255663 e 817d 841 c0c 5164230644 f 01 29 Packages.gz
