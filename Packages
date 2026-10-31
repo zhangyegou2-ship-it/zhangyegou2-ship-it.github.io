@@ -76,6 +76,40 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
 
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 1.5.2
+Section: Tweaks
+Maintainer: Charlie Leung
+Installed-Size: 55487
+Depends: firmware (>= 15.0),mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: debs/com.charlieleung.trollopenjb_1.5.2_iphoneos-arm64e.deb
+Size: 17090156
+MD5sum: 05597e68f5d66ad7334307ed6f03b462
+SHA1: 48bf5368f8ffe4a7abd964d6243c4ae2f7f7e8b7
+SHA256: 7db2496e91c6975cdb601c1b74d58c90774de961dcb4bacb43ec6c39eadaf961
+SHA512: 70a200d0ef970e69f036afb0a997855a9344e9b5bf72aec03cb2d7fa8d79479f6316c46ac06b2b67f05d2ea09811342ea7158a9b52717965e020c716f00246f2
+Description: 十柒破解
+Name: TrollOpen
+Author: Charlie Leung
+
+Package: com.go.mango
+Architecture: iphoneos-arm64
+Version: 1.0-Beta12-1+local1
+Section: Tweaks
+Maintainer: go
+Installed-Size: 40320
+Depends: mobilesubstrate
+Filename: debs/com.go.mango_1.0-Beta12-1_local1_iphoneos-arm64.deb
+Size: 17154924
+MD5sum: 9cf607fea4c9f540cfa7d72f5d9889ad
+SHA1: 6b910c09f6142786cf67665ef676aff53bb52ad7
+SHA256: 80ccec2706a41264e0305bc7ecfba0a3fd280e2133a9653c417152a2f0a2e72c
+SHA512: 18558e68370a4f5280a62e3ae6d3ec6c51a0f01d405798731acc31ad59b5a6865d2594fe707f3dded5e5cfb804e46e0ed55d299a9e911856598ce762ec30fe5e
+Description: Mango分屏，小液微信液态美化，系统级真液态玻璃，全局返回小芒，视频壁纸等一些实用功能。
+Name: mango
+Author: go
+
 Package: com.opa334.altlist
 Architecture: iphoneos-arm64e
 Version: 1.0.11
@@ -94,6 +128,24 @@ Tag: role::developer
 Name: AltList
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Author: opa334
+
+Package: com.susudear.screencore
+Architecture: iphoneos-arm64e
+Version: 2.0.3
+Section: Tweaks
+Maintainer: SuSu
+Installed-Size: 2964
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/com.susudear.screencore_2.0.3_iphoneos-arm64e.deb
+Size: 464978
+MD5sum: 8c80529ac18d2dbfe77002a0a30ca8cd
+SHA1: 9feb2706e73aa2a602c5d7d0ec8bddc2890a66cb
+SHA256: 0b9445ac7ef6ed9894c8ec82776cbcd2b0ab90a508ba185258534db451e31e2b
+SHA512: 1576257a4093040589075c78854b57323bfad784d0b60556de39a2eb7ac402c6759722b42a13fd232bef797b23804891c66729110431ca43c70cbfe3663db889
+Description: 分屏而已
+Name: ScreenCore
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
 
 Package: com.charlieleung.trollopenjb
 Architecture: iphoneos-arm64
