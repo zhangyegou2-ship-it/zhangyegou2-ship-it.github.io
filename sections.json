@@ -1,0 +1,29 @@
+{
+  "sections": [
+    {
+      "name": "System",
+      "orig": "System",
+      "pkgs": []
+    },
+    {
+      "name": "Tweaks",
+      "orig": "Tweaks",
+      "pkgs": []
+    },
+    {
+      "name": "zqbb Tweaks",
+      "orig": "zqbb Tweaks",
+      "pkgs": []
+    },
+    {
+      "name": "输入法皮肤",
+      "orig": "输入法皮肤",
+      "pkgs": []
+    },
+    {
+      "name": "插件",
+      "orig": "",
+      "pkgs": []
+    }
+  ]
+}
