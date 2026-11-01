@@ -199,3 +199,24 @@ Description: TrollOpen 的越狱版本，自带分屏功能，支持 ios16 及�
 Name: TrollOpen
 Author: Charlie Leung
 
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 2.0.1+rhfix5.ocr137main
+Priority: optional
+Section: Tweaks
+Maintainer: Local test build
+Installed-Size: 3107
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: debs/兔子分屏_2.1.deb
+Size: 1080584
+MD5sum: b2964aea61de5e855e6edd0c1a71dd51
+SHA1: ea3597617f8333dd8283a5b5d68678dc1e6732b6
+SHA256: f262861e6cdd8c9d86773c64befb92c0b9317f2e3e6e7ffa21b81d767a1125ce
+SHA512: 901069a8471095f41de72e9f11e3d91f869354cf9c80b36516315f8b180f63463049f10f53598852303deeb0f80fb1269183a06489e07346b5b08bbbb82443e3
+Description: TrollOpen 2.1 package with the 1.3.7 OCR main plugin.
+ Keeps the 2.1 auxiliary tweaks and removes the 2.1 RHFix2 Vision OCR hook.
+ Requires on-device testing; this is not an official release.
+Name: TrollOpen (RootHide Test)
+Author: Charlie Leung
+X-Local-Test-Revision: ocr137-main
+
