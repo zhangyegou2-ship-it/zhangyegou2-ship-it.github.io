@@ -220,3 +220,24 @@ Name: TrollOpen (RootHide Test)
 Author: Charlie Leung
 X-Local-Test-Revision: ocr137-main
 
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 2.0.1+rhfix5.ocr137main.sileo2
+Priority: optional
+Section: Tweaks
+Maintainer: Local test build
+Installed-Size: 3107
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: debs/兔子分屏_2.1_ocr137_Sileo键盘定向修复.deb
+Size: 1081242
+MD5sum: 921ed213ea31756c8dae559649614d51
+SHA1: d3a2b145b3dfcef650c56911e7f0aefa5aaf5759
+SHA256: 5be693e96538618643364246fb08bcd104e18b066e97652fa1444c3a3a1ad4bf
+SHA512: d77d6bb72adfda48f4035a8cc14c48111f96e1ff5d31536a446c378cbcc4d07878978d0cfb41bfdfc9ead22a9356c301f6e937860eb6131ebc1df1fca3d1ca62
+Description: TrollOpen 2.1 package with the 1.3.7 OCR main plugin.
+ Keeps the 2.1 auxiliary tweaks and removes the 2.1 RHFix2 Vision OCR hook.
+ Requires on-device testing; this is not an official release.
+Name: TrollOpen (RootHide Test)
+Author: Charlie Leung
+X-Local-Test-Revision: sileo-targeted-keyboard
+
