@@ -182,6 +182,26 @@ Name: ScreenCore
 Author: SuSu
 Icon: https://repo.susubaby.cn/icons/ScreenCore.png
 
+Package: iya.banana.springboardgame
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: hxhlb
+Installed-Size: 716
+Depends: mobilesubstrate, preferenceloader
+Conflicts: iya.banana.iconsnake, iya.banana.icontetris
+Replaces: iya.banana.iconsnake, iya.banana.icontetris
+Filename: debs/iya.banana.springboardgame_0.0.2_iphoneos-arm64e.deb
+Size: 118932
+MD5sum: f17a5f4d18858815ddcbb4784e6100e1
+SHA1: b15c71c41095ccc0b32c4f2932addd88bd7b437a
+SHA256: 0b6b8a0e77f9e57da954f98a1047152e9f36b3a60568f18943c7785d1c668b2d
+SHA512: 4291d3f291f0ee6174178ec28a49f511d74a393926454d17491a7a907a30078ccd260a3d238cfbae668616acd369d9842a00c09a2a2a3017bccf0f978254ce0c
+Description: Play Snake, Tetris, Basketball, Breakout, Soccer, and Tank with installed app icons directly on the Home Screen. / 直接在主屏幕上使用已安装 App 图标游玩贪吃蛇、俄罗斯方块、篮球、打砖块、足球和坦克。
+Name: SpringBoardGame
+Author: hxhlb
+icon: https://huayuarc.github.io/icon/SpringBoardGame.png
+
 Package: com.charlieleung.trollopenjb
 Architecture: iphoneos-arm64
 Version: 1.3.7
