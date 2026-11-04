@@ -261,3 +261,22 @@ Name: TrollOpen (RootHide Test)
 Author: Charlie Leung
 X-Local-Test-Revision: sileo-targeted-keyboard
 
+Package: com.charlieleung.liquidify
+Architecture: iphoneos-arm64e
+Version: 1.3.8+render.9+tabbar.2
+Section: Tweaks
+Maintainer: Charlie Leung
+Installed-Size: 42735
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: iya.iapple.liquidass, dylv.liquidass, dylv.liquidass.zh-hans
+Filename: debs/液态玻璃1.3.8_RootHide_底栏兼容修复v2_iOS16.2.deb
+Size: 16316726
+MD5sum: c06d530dcf0ff81677cd1d4cd79ee187
+SHA1: f7215ea6a112a2998203fbfc7a72b6b78832dfb5
+SHA256: d3d4a64f6f8f395f86b0499649f22eaf12589b576105ffa34dd082b38ae0875c
+SHA512: fc0ca96066e325b344f653268421a37fc4b9ff1b1324685248d7b429b212577f6181e7e58e0636218df8c9d9ac42f064e1f70a3821f0c5e35465a0ab24d4d4d4
+Description: 为 iOS 界面注入液态玻璃质感。
+Name: Liquidify
+Author: Charlie Leung
+
