@@ -182,6 +182,24 @@ Name: ScreenCore
 Author: SuSu
 Icon: https://repo.susubaby.cn/icons/ScreenCore.png
 
+Package: com.wkk.systembox
+Architecture: iphoneos-arm64
+Version: 1.4-7
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 1572
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.wkk.systembox_1.4-7_iphoneos-arm64.deb
+Size: 290832
+MD5sum: 54eb29e2397e5afabb136849d0744be8
+SHA1: 6ec538bd6fb27a5262d95d15ef14f945585c1151
+SHA256: e582ff4726300ce1ddab24f4e5c198f597bf7cc03a74b4a2a0ebba41e966fca1
+SHA512: 375dac8454400f21a409d0db6e5b20cc43bf9457a9b7ec9624d6d48fa54fed2788faa157b680d259102eaeea0b8bbdef46a2b942b9d83987bbd834f5a775cb28
+Description: cool
+Name: SystemX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: iya.banana.springboardgame
 Architecture: iphoneos-arm64e
 Version: 0.0.2
