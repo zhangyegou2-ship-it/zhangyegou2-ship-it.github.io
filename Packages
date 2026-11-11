@@ -281,6 +281,25 @@ X-Local-Test-Revision: sileo-targeted-keyboard
 
 Package: com.charlieleung.liquidify
 Architecture: iphoneos-arm64e
+Version: 1.3.8+render.9+tabbar.2+ios26.5
+Section: Tweaks
+Maintainer: Charlie Leung
+Installed-Size: 42735
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: iya.iapple.liquidass, dylv.liquidass, dylv.liquidass.zh-hans
+Filename: debs/液态玻璃 26 系统.deb
+Size: 16333282
+MD5sum: d4bba88c728dd47fc92c566b80b2baac
+SHA1: 0e76d7ee130826d713d2e92048c5deb671942acc
+SHA256: a46cb5f62ece8ea6fda8777e47866241b9271a3e15f631ffca973db26427f915
+SHA512: 31ab8d56e77e15f44160c46dfdcb3d24d1c3ab9b9d87524edbeda1a8925b3aa92737a2b5cabfabf00db9ca2ecaa2fd6a441360486fd62f124aac08d0c5c2404a
+Description: 为 iOS 界面注入液态玻璃质感。
+Name: Liquidify
+Author: Charlie Leung
+
+Package: com.charlieleung.liquidify
+Architecture: iphoneos-arm64e
 Version: 1.3.8+render.9+tabbar.2
 Section: Tweaks
 Maintainer: Charlie Leung
