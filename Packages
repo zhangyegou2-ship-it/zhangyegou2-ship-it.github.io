@@ -17,17 +17,17 @@ Author: colorblack
 
 Package: cn.zqbb.hello.quick.panel
 Architecture: iphoneos-arm64e
-Version: 1.0.1-6+localunlock3
+Version: 1.3.0-2+localunlock3
 Section: zqbb Tweaks
 Maintainer: zqbb
-Installed-Size: 17776
+Installed-Size: 22168
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/HelloQuickPanel_1.0.1-6_localunlock3_iphoneos-arm64e.deb
-Size: 4996120
-MD5sum: 962928d2fa5dd3045423e9491704aadc
-SHA1: 5a643d0d18a3761bce65968acad23a45637ffd5d
-SHA256: ed86fa36f844b5729f2eafdeef664611f6330c4b4d971e6f176676f5db31579a
-SHA512: 173983e2be9f643e441d9fb5eafdee7c8dfac51e28dae06bd70f411593de5696198c0be82ec3203ad6615f516cd0ad22fde803e1f1859a9d6ae22cff515bf893
+Filename: debs/HelloQuickPanel_1.0.1-6+localunlock3_iphoneos-arm64e.deb
+Size: 6127970
+MD5sum: f3cf360386a34360cd2dea1e210f5d5a
+SHA1: 5542b33594c82ca75b46fb2dad0d6e8a75d54498
+SHA256: 45fbfdeb979fa6f30071b2af56fffe043bc2f3b1616a8a18a76ec228d4bc99f0
+SHA512: be20d415cc29c61c1c23d7bb85e430b65f53c45ac87750e04517d2f583747c4b7c8c2a392331459e23488f61f14360b5a1400dcc0ad3d01df97dfe78d7910f90
 Description: 快捷面板~
 Name: Hello QuickPanel
 Author: zqbb
