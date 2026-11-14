@@ -279,6 +279,24 @@ Name: TrollOpen (RootHide Test)
 Author: Charlie Leung
 X-Local-Test-Revision: sileo-targeted-keyboard
 
+Package: com.zooah.swipedeck
+Architecture: iphoneos-arm64
+Version: 0.6.3-1+ported-unlocked2
+Section: Tweaks
+Maintainer: zooah212
+Installed-Size: 8008
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/手势.deb
+Size: 2587290
+MD5sum: dddc081354a9c4d73688a5224eef1758
+SHA1: 929edafb12b4214028173978b33066914b1a2557
+SHA256: 6b5fc2d9ac5ecec01013e2018e2f5312e0f72dd6e2370bbd496fd4e2d80fd1d1
+SHA512: 861b61808ff69fb49cf9877ad634ebe07e3867095bac803b47a2bb83ddac4099584e92a677033c98d918eabc0229195b0e5e212695c085f28875d7cea4702eef
+Description: Quick action panel accessible by swiping up from the bottom-right corner.
+             Customizable buttons for Resping, WeChat Pay, Alipay, Lock Screen, Calculator, and more.
+Name: SwipeDeck - 快捷助手
+Author: zooah212
+
 Package: com.charlieleung.liquidify
 Architecture: iphoneos-arm64e
 Version: 1.3.8+render.9+tabbar.2+ios26.5
