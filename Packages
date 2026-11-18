@@ -68,6 +68,23 @@ Description: Download and export repository DEB files directly from Sileo.
 Name: Sileo DEB Downloader
 Author: Local
 
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 2.0.1+splitcompat1.ocr-rabbit2.kbscreenshot3
+Section: Tweaks
+Maintainer: Charlie Leung
+Installed-Size: 4482
+Depends: firmware (>= 15.0),mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: debs/TrollOpen_2.0.1_键盘侠区域截图时序_滑条修复3_RootHide_arm64e.deb
+Size: 1079832
+MD5sum: 76ff508b3ad1f44b0b7f0abb3ae0685f
+SHA1: 79d109db03109596169409882f985306d0533439
+SHA256: 88ab436f71b8664854ec6ac61cf40be1b8a32f73c64523337835da057a060b52
+SHA512: c01a6ed9bdb4907f4af2f6acfbe0cbaee44af9024b12cfec320117af597caa7f3e06d1f6946af19fac59b95a27822405d7d5e916a9baebcd5e3e32c969a5539e
+Description: TrollOpen 的越狱版本，自带分屏功能，支持 ios15 及以上。
+Name: TrollOpen
+Author: Charlie Leung
+
 Package: cn.zqbb.fix120hz
 Architecture: iphoneos-arm64
 Version: 1.2.0-62
