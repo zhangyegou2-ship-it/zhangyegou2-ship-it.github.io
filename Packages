@@ -34,6 +34,25 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
 
+Package: cn.zqbb.hello.quick.panel
+Architecture: iphoneos-arm64e
+Version: 1.5.0-1+localunlock2.invokefix1
+Section: zqbb Tweaks
+Maintainer: zqbb
+Installed-Size: 23264
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/HelloQuickPanel_1.0.1-6_localunlock3_iphoneos-arm64e.deb
+Size: 6464618
+MD5sum: 170274fb7a5781e23330da57c6da6d13
+SHA1: a3b4c161dd6ad543476d42069bf5b109591d2f85
+SHA256: 09100ab943cc2ac001d8b250c0b2f51a6bf5cf346e0fac18ac44b5a27b7b7dd2
+SHA512: 0f37bb9cff67f033ac787ae96c95ae7f8a76315ce2525a8b10bf5ddada5746abdbc83d175e2dbcc222b641327c36ef9e945783edde0c3ed38d45fa15020cadbe
+Description: 快捷面板~
+Name: Hello QuickPanel
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
+
 Package: cn.zqbb.hellospeed
 Architecture: iphoneos-arm64e
 Version: 1.2.2
